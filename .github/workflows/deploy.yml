@@ -1,4 +1,4 @@
-name: deploy
+name: production deploy
 
 on:
   #Trigger the workflow on push into the main branch
